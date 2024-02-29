@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vivekvardhan31
+- 👋 Hi, I’m @vivek vardhan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on python
